@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,css,html" /> <br />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,css,html" /> <br />
     <img src="https://skillicons.dev/icons?i=cpp,py" /> <br />
     <img src="https://skillicons.dev/icons?i=firebase" /> <br />
     <img src="https://skillicons.dev/icons?i=lua,robloxstudio,blender,figma" />
